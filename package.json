@@ -1,5 +1,5 @@
 {
-  "name": "cart_hero_utils",
+  "name": "cart-hero-utils",
   "version": "1.0.0",
   "description": "utilit function for cart hero",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/addousas/cart_hero_util.git"
+    "url": "git+https://github.com/addousas/cart-hero-util.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/addousas/cart_hero_util/issues"
+    "url": "https://github.com/addousas/cart-hero-util/issues"
   },
-  "homepage": "https://github.com/addousas/cart_hero_util#readme"
+  "homepage": "https://github.com/addousas/cart-hero-util#readme"
 }
